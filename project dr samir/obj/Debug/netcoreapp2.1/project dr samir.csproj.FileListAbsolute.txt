@@ -1,0 +1,11 @@
+C:\Users\compu\Desktop\project dr samir\project dr samir\bin\Debug\netcoreapp2.1\project dr samir.deps.json
+C:\Users\compu\Desktop\project dr samir\project dr samir\bin\Debug\netcoreapp2.1\project dr samir.runtimeconfig.json
+C:\Users\compu\Desktop\project dr samir\project dr samir\bin\Debug\netcoreapp2.1\project dr samir.runtimeconfig.dev.json
+C:\Users\compu\Desktop\project dr samir\project dr samir\bin\Debug\netcoreapp2.1\project dr samir.dll
+C:\Users\compu\Desktop\project dr samir\project dr samir\bin\Debug\netcoreapp2.1\project dr samir.pdb
+C:\Users\compu\Desktop\project dr samir\project dr samir\obj\Debug\netcoreapp2.1\project dr samir.csproj.AssemblyReference.cache
+C:\Users\compu\Desktop\project dr samir\project dr samir\obj\Debug\netcoreapp2.1\project dr samir.csproj.CoreCompileInputs.cache
+C:\Users\compu\Desktop\project dr samir\project dr samir\obj\Debug\netcoreapp2.1\project dr samir.AssemblyInfoInputs.cache
+C:\Users\compu\Desktop\project dr samir\project dr samir\obj\Debug\netcoreapp2.1\project dr samir.AssemblyInfo.cs
+C:\Users\compu\Desktop\project dr samir\project dr samir\obj\Debug\netcoreapp2.1\project dr samir.dll
+C:\Users\compu\Desktop\project dr samir\project dr samir\obj\Debug\netcoreapp2.1\project dr samir.pdb
